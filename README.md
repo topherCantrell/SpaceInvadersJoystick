@@ -18,9 +18,13 @@ The portable DVD TV is turned sideways to match the rotation of the arcade syste
 
 # Replacement Board
 
-There are 5 switch pads. One is shown mounted. The yellow casing acts like a spring for a conductive disk inside. The rest of the components are mounted to the other side of the board.
+There are 5 switch pads. One is shown mounted. The yellow casing acts like a spring for a conductive disk inside.
 
 ![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/photo1.jpg)
+
+![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/components.jpg)
+
+![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/pads.jpg)
 
 # Schematic and PCB
 
@@ -28,14 +32,12 @@ There are 5 switch pads. One is shown mounted. The yellow casing acts like a spr
 
 ![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/pcb.jpg)
 
-# TODO
+# Software
 
 ![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/dispatch.jpg)
 
 ![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/operation.jpg)
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/components.jpg)
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/pads.jpg)
 
 
