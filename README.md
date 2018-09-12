@@ -1,7 +1,7 @@
 # SpaceInvadersJoystick
 The Space Invaders Joystick
 
-<span style="color:red">TEST</span>
+<a href="." style="color:red">TEST</a>
 
 The SID COG:
 http://forums.parallax.com/showthread.php?118285-SIDcog-The-sound-of-the-Commodore-64-!
