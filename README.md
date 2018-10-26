@@ -14,29 +14,29 @@ http://www.youtube.com/watch?v=n8_lrEy30JE
 
 The portable DVD TV is turned sideways to match the rotation of the arcade system.
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/photo2.jpg)
+![](art/photo2.jpg)
 
 # Replacement Board
 
 There are 5 switch pads. One is shown mounted. The yellow casing acts like a spring for a conductive disk inside.
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/photo1.jpg)
+![](art/photo1.jpg)
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/components.jpg)
+![](art/components.jpg)
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/pads.jpg)
+![](art/pads.jpg)
 
 # Schematic and PCB
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/schematic.jpg)
+![](art/schematic.jpg)
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/pcb.jpg)
+![](art/pcb.jpg)
 
 # Software
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/dispatch.jpg)
+![](art/dispatch.jpg)
 
-![](https://github.com/topherCantrell/SpaceInvadersJoystick/blob/master/art/operation.jpg)
+![](art/operation.jpg)
 
 
 
