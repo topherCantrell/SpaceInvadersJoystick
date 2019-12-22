@@ -1,14 +1,19 @@
 # SpaceInvadersJoystick
 The Space Invaders Joystick
 
+### As Seen In Circuit Cellar Magazine
+[![](art/circuitcellar.jpg)](https://circuitcellar.com/)<br>
+https://cc-webshop.com/collections/circuit-cellar-2012/products/circuit-cellar-issue-260-march-2012-pdf
+
+### As seen on Youtube
+[![](art/youtube.jpg)](https://www.youtube.com/) <br>
+http://www.youtube.com/watch?v=n8_lrEy30JE
+
 The SID COG:
 http://forums.parallax.com/showthread.php?118285-SIDcog-The-sound-of-the-Commodore-64-!
 
 The early Z80 emulation work:
 http://forums.parallaxinc.com/forums/pr.aspx?f=25&m=332138
-
-The finished project on YouTube:
-http://www.youtube.com/watch?v=n8_lrEy30JE
 
 # Completed System
 
